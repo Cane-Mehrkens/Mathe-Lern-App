@@ -13,25 +13,34 @@ Die App ist eine reine Offline-Website.
 Der Speicherstand funktioniert im gleichen Browser über localStorage.
 Wenn du die Datei in einem anderen Browser/auf einem anderen Gerät öffnest, ist der Speicherstand dort neu.
 
-V6:
+V7:
 
-190 Aufgaben
-9 Kurse statt nur grobe Kapitel
-pro Kurs eigene Schwierigkeit: Einfach / Normal / Schwer / Gemischt
-schönere Graphen bei linearen Funktionen
-interaktive Graphen-Aufgaben mit Reglern für m und b
+Geometrie stark erweitert
+Formelsammlung jetzt mit:
+Quadrat
+Rechteck
+Dreieck
+Parallelogramm
+Trapez
+Raute
+Drachen
+zusammengesetzte Flächen
+Kreis / Halbkreis / Kreisring
+Würfel
+Quader
+Prisma
+Zylinder
+Pyramide
+Kegel
+Kugel
+Hohlkörper
+Formeln neu gestaltet
+Dreieck → Fläche: A=a⋅h:2 = | Umfang: U=a+b+c =
+extra Bereich Formeln umstellen, z. B.
+A=a⋅b → a=A:b
+A=a⋅h:2 → h=2A:a
+neue textbasierte Geometrie-Aufgaben
+neue Skizzen/Grafiken für weitere Formen
+jetzt 219 Aufgaben
 
-mehr Aufgaben zu:
-Satz des Pythagoras
-Kreisrechnung
-Statistik beschreiben
-Fake-Statistiken erkennen
-Graphen ablesen
-Textaufgaben mit Rechenweg
-Lernmodus ausführlicher mit:
-Erklärung
-Formel
-Merkschritten
-Beispiel
-häufigem Fehler
 Formelsammlung bleibt rechts/unten aufklappbar und passt auf Handy + PC
