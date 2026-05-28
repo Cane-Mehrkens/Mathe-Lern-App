@@ -13,34 +13,22 @@ Die App ist eine reine Offline-Website.
 Der Speicherstand funktioniert im gleichen Browser über localStorage.
 Wenn du die Datei in einem anderen Browser/auf einem anderen Gerät öffnest, ist der Speicherstand dort neu.
 
-V7:
+V8:
 
-Geometrie stark erweitert
-Formelsammlung jetzt mit:
-Quadrat
-Rechteck
-Dreieck
-Parallelogramm
-Trapez
-Raute
-Drachen
-zusammengesetzte Flächen
-Kreis / Halbkreis / Kreisring
-Würfel
-Quader
-Prisma
-Zylinder
-Pyramide
-Kegel
-Kugel
-Hohlkörper
-Formeln neu gestaltet
-Dreieck → Fläche: A=a⋅h:2 = | Umfang: U=a+b+c =
-extra Bereich Formeln umstellen, z. B.
-A=a⋅b → a=A:b
-A=a⋅h:2 → h=2A:a
-neue textbasierte Geometrie-Aufgaben
-neue Skizzen/Grafiken für weitere Formen
-jetzt 219 Aufgaben
-
-Formelsammlung bleibt rechts/unten aufklappbar und passt auf Handy + PC
+Formelsammlungs update
+Ebene Figuren
+Dreieck / Pythagoras / Sinus / Kosinus / Tangens
+Körper
+Prozent- und Zinsrechnung
+lineare, quadratische und exponentielle Funktionen
+Wahrscheinlichkeit
+Maßeinheiten
+Dichte
+neuer Bereich „Videos“ oben in der Navigation
+Lehrerschmidt-Videos direkt eingebettet, z. B. zu:
+Satz des Pythagoras
+Kreisrechnung
+lineare Funktionen
+arithmetisches Mittel
+Median
+Die Videos sind als YouTube-Embeds eingefügt.
