@@ -4,8 +4,10 @@ Mathe ist dreck, deswegen verstehe es mit dieser Lern App
 Auf basis von Echten Mathe-abschlussarbeiten (Realschule)
 https://mathe-lern-app.onrender.com
 
- MatheCoach
-Falls sie es Selber hosten mo
+ MatheCoach V10.1
+ 
+Falls sie es selber Hosten möchten
+
 Start:
 1. ZIP entpacken.
 2. index.html doppelklicken.
