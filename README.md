@@ -17,22 +17,21 @@ Die App ist eine reine Offline-Website.
 Der Speicherstand funktioniert im gleichen Browser über localStorage.
 Wenn du die Datei in einem anderen Browser/auf einem anderen Gerät öffnest, ist der Speicherstand dort neu oder wenn du deinen Browser Cache bereinigst.
 
-V8:
+V10.1/Fix:
 
-Formelsammlungs update
-Ebene Figuren
-Dreieck / Pythagoras / Sinus / Kosinus / Tangens
-Körper
-Prozent- und Zinsrechnung
-lineare, quadratische und exponentielle Funktionen
-Wahrscheinlichkeit
-Maßeinheiten
-Dichte
-neuer Bereich „Videos“ oben in der Navigation
-Lehrerschmidt-Videos direkt eingebettet, z. B. zu:
-Satz des Pythagoras
-Kreisrechnung
-lineare Funktionen
-arithmetisches Mittel
-Median
-Die Videos sind als YouTube-Embeds eingefügt.
+Zahl richtig, Einheit fehlt = gelbe Warnung statt komplett falsch
+
+Taschenrechner-Funktion
+passt optisch zum Design
+kleiner und mobilfreundlich
+unten rechts erreichbar
+kann +, −, ×, ÷, Klammern, π, √, x², Potenzen
+Notizen
+ Button unten links
+ überall erreichbar
+ wird automatisch im Browser gespeichert
+ 
+Prüfungsmodus angepasst
+ Teil 1: Taschenrechner gesperrt, wie in der echten Arbeit
+ Teil 2: Taschenrechner erlaubt
+bei bestimmten Kopfrechen-/Rechenweg-Aufgaben wird er ebenfalls gesperrt
