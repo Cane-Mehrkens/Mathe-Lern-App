@@ -19,18 +19,15 @@ Wenn du die Datei in einem anderen Browser/auf einem anderen Gerät öffnest, is
 
 V10.2/Fix:
 
-
-Taschenrechner-Funktion
-passt optisch zum Design
-kleiner und mobilfreundlich
-unten rechts erreichbar
-kann +, −, ×, ÷, Klammern, π, √, x², Potenzen
-Notizen
- Button unten links
- überall erreichbar
- wird automatisch im Browser gespeichert
+Lernkarten sind jetzt viel ausführlicher
+ -weniger kryptische Erklärungen
+ -mehr Beispiele mit Lösungsidee
+ -mehr „Warum ist das wichtig?“
+ -mehr Schritt-für-Schritt-Anleitungen
+ -Formeln werden einfacher erklärt, nicht nur hingeschrieben
+ -extra Beispiele zu typischen Fehlern
+ -passend für Realschüler, die nicht schon alles sicher können
  
-Prüfungsmodus angepasst
- Teil 1: Taschenrechner gesperrt, wie in der echten Arbeit
+wird automatisch im Browser gespeichert
  Teil 2: Taschenrechner erlaubt
 bei bestimmten Kopfrechen-/Rechenweg-Aufgaben wird er ebenfalls gesperrt
