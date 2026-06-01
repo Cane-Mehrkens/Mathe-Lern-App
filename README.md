@@ -21,11 +21,17 @@ V10.2/Fix:
 
 Lernkarten sind jetzt viel ausführlicher
  -weniger kryptische Erklärungen
+ 
  -mehr Beispiele mit Lösungsidee
+ 
  -mehr „Warum ist das wichtig?“
+ 
  -mehr Schritt-für-Schritt-Anleitungen
+ 
  -Formeln werden einfacher erklärt, nicht nur hingeschrieben
+ 
  -extra Beispiele zu typischen Fehlern
+ 
  -passend für Realschüler, die nicht schon alles sicher können
  
 wird automatisch im Browser gespeichert
